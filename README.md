@@ -1,4 +1,4 @@
-# inrealtime
+# In Real Time
 
 Returns the same specified timezone's time for user's around the globe.
 
