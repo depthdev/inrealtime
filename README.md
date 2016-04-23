@@ -2,8 +2,8 @@
 
 Enables user's around the world to see the same from a specified timezone.
 
-Options: callback, custom formatting, offset time, and update frequency (ensure's single threading time is accurate).  
-API: stop, start.
+*Options:* callback, custom formatting, offset time, and update frequency (ensure's single threading time is accurate).  
+*API:* stop, start.
 
 <a href="http://codepen.io/depthdev/pen/ONwRYg" target="_blank">Demo</a>
 
